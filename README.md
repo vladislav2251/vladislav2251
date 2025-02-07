@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad Didyk</h1>
 <h3 align="center">Front-end Developer from Ukraine</h3>
 
-- ⚡ I develop for all platforms using [TypeScript](TypeScript)
-
-- 🤝 Got a project? i have ideas, lets talk [https://t.me/srtqwore](https://t.me/srtqwore)
+- 🤝 Got a project? i have ideas, lets talk [Contact me!](https://t.me/srtqwore)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
