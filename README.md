@@ -1,4 +1,4 @@
-[more//](https://t.me/srtqwore)
+[more//](https://t.me/austriagoverment)
 
 <table width='100%'>
   <tr>
