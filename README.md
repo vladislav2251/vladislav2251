@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vlad Didyk</h1>
-<h3 align="center">IST Student</h3>
-
 [more//](https://t.me/srtqwore)
 
 <table width='100%'>
