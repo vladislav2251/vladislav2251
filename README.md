@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad Didyk</h1>
-<h3 align="center">Front-end Developer from Ukraine</h3>
+<h3 align="center">IST Student</h3>
 
-- 🤝 Got a project? i have ideas, lets talk [Contact me!](https://t.me/srtqwore)
+[more//](https://t.me/srtqwore)
 
 <table width='100%'>
   <tr>
